@@ -5,7 +5,7 @@ simulations, playable instruments and games, editorial layouts, dashboards and s
 single HTML file with all CSS and JavaScript inline (no external fonts, images, libraries or network
 requests), and ships with the exact prompt that produced it.
 
-**Browse the gallery:** https://miaai-lab.github.io/Claude-Opus-5.5-100-HTML-Files/
+**Browse the gallery:** https://artfix.github.io/Claude-Opus-5.5-100-HTML-Files/
 
 ## Structure
 
